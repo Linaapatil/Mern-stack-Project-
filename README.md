@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![mern tt](https://github.com/Linaapatil/Mern-stack-Project-/assets/109691716/d9cfdcdc-e5d3-4a3c-aca9-1788dae1a800)"  />
+  <img height="150" src="https://github.com/Linaapatil/Mern-stack-Project-/assets/109691716/d9cfdcdc-e5d3-4a3c-aca9-1788dae1a800" />
 </div>
 
 ###
